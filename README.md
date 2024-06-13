@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshleyPhillips-cloud
-- 👀 I’m interested in data analytics.
+- 👀 I’m interested in becoming a senior analyst.
 - 🌱 I’m currently learning to master sql, python, tableau, and advanced excel.
-- 💞️ I’m looking to collaborate on data sets to obtain more hands on exsperience.
+- 💞️ I’m looking to collaborate on data sets to obtain more hands on experience.
 - 📫 How to reach me email would be the best source.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy swimming, hiking, biking, and camping.
